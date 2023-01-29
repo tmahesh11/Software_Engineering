@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Acer\\OneDrive - USN\\Documents\\Git\\Assignment_1\\Assignment_1\\Assignment_1.csproj",
-      "projectName": "Assignment_1",
-      "projectPath": "C:\\Users\\Acer\\OneDrive - USN\\Documents\\Git\\Assignment_1\\Assignment_1\\Assignment_1.csproj",
+      "projectUniqueName": "C:\\Users\\Acer\\OneDrive - USN\\Documents\\Git\\Assignment_1_SE\\Assignment_1_SE\\Assignment_1_SE.csproj",
+      "projectName": "Assignment_1_SE",
+      "projectPath": "C:\\Users\\Acer\\OneDrive - USN\\Documents\\Git\\Assignment_1_SE\\Assignment_1_SE\\Assignment_1_SE.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Acer\\OneDrive - USN\\Documents\\Git\\Assignment_1\\Assignment_1\\obj\\",
+      "outputPath": "C:\\Users\\Acer\\OneDrive - USN\\Documents\\Git\\Assignment_1_SE\\Assignment_1_SE\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

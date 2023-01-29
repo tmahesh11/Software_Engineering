@@ -1,4 +1,4 @@
-﻿namespace Assignment_1
+﻿namespace Assignment_1_SE
 {
     partial class Form1
     {
