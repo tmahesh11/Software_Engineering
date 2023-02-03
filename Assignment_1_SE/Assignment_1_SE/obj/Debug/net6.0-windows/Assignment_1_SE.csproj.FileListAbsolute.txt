@@ -1,0 +1,17 @@
+C:\Users\Acer\OneDrive - USN\Documents\Git\Assignment_1_SE\Assignment_1_SE\bin\Debug\net6.0-windows\Assignment_1_SE.exe
+C:\Users\Acer\OneDrive - USN\Documents\Git\Assignment_1_SE\Assignment_1_SE\bin\Debug\net6.0-windows\Assignment_1_SE.deps.json
+C:\Users\Acer\OneDrive - USN\Documents\Git\Assignment_1_SE\Assignment_1_SE\bin\Debug\net6.0-windows\Assignment_1_SE.runtimeconfig.json
+C:\Users\Acer\OneDrive - USN\Documents\Git\Assignment_1_SE\Assignment_1_SE\bin\Debug\net6.0-windows\Assignment_1_SE.dll
+C:\Users\Acer\OneDrive - USN\Documents\Git\Assignment_1_SE\Assignment_1_SE\bin\Debug\net6.0-windows\Assignment_1_SE.pdb
+C:\Users\Acer\OneDrive - USN\Documents\Git\Assignment_1_SE\Assignment_1_SE\obj\Debug\net6.0-windows\Assignment_1_SE.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive - USN\Documents\Git\Assignment_1_SE\Assignment_1_SE\obj\Debug\net6.0-windows\Assignment_1_SE.Form1.resources
+C:\Users\Acer\OneDrive - USN\Documents\Git\Assignment_1_SE\Assignment_1_SE\obj\Debug\net6.0-windows\Assignment_1_SE.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive - USN\Documents\Git\Assignment_1_SE\Assignment_1_SE\obj\Debug\net6.0-windows\Assignment_1_SE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive - USN\Documents\Git\Assignment_1_SE\Assignment_1_SE\obj\Debug\net6.0-windows\Assignment_1_SE.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive - USN\Documents\Git\Assignment_1_SE\Assignment_1_SE\obj\Debug\net6.0-windows\Assignment_1_SE.AssemblyInfo.cs
+C:\Users\Acer\OneDrive - USN\Documents\Git\Assignment_1_SE\Assignment_1_SE\obj\Debug\net6.0-windows\Assignment_1_SE.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive - USN\Documents\Git\Assignment_1_SE\Assignment_1_SE\obj\Debug\net6.0-windows\Assignment_1_SE.dll
+C:\Users\Acer\OneDrive - USN\Documents\Git\Assignment_1_SE\Assignment_1_SE\obj\Debug\net6.0-windows\refint\Assignment_1_SE.dll
+C:\Users\Acer\OneDrive - USN\Documents\Git\Assignment_1_SE\Assignment_1_SE\obj\Debug\net6.0-windows\Assignment_1_SE.pdb
+C:\Users\Acer\OneDrive - USN\Documents\Git\Assignment_1_SE\Assignment_1_SE\obj\Debug\net6.0-windows\Assignment_1_SE.genruntimeconfig.cache
+C:\Users\Acer\OneDrive - USN\Documents\Git\Assignment_1_SE\Assignment_1_SE\obj\Debug\net6.0-windows\ref\Assignment_1_SE.dll
