@@ -1,0 +1,17 @@
+C:\Users\Acer\OneDrive - USN\Documents\Software_Engineering\Git\SE_258971_Assignment1\SE_258971_Assignment1\bin\Debug\net6.0-windows\SE_258971_Assignment1.exe
+C:\Users\Acer\OneDrive - USN\Documents\Software_Engineering\Git\SE_258971_Assignment1\SE_258971_Assignment1\bin\Debug\net6.0-windows\SE_258971_Assignment1.deps.json
+C:\Users\Acer\OneDrive - USN\Documents\Software_Engineering\Git\SE_258971_Assignment1\SE_258971_Assignment1\bin\Debug\net6.0-windows\SE_258971_Assignment1.runtimeconfig.json
+C:\Users\Acer\OneDrive - USN\Documents\Software_Engineering\Git\SE_258971_Assignment1\SE_258971_Assignment1\bin\Debug\net6.0-windows\SE_258971_Assignment1.dll
+C:\Users\Acer\OneDrive - USN\Documents\Software_Engineering\Git\SE_258971_Assignment1\SE_258971_Assignment1\bin\Debug\net6.0-windows\SE_258971_Assignment1.pdb
+C:\Users\Acer\OneDrive - USN\Documents\Software_Engineering\Git\SE_258971_Assignment1\SE_258971_Assignment1\obj\Debug\net6.0-windows\SE_258971_Assignment1.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive - USN\Documents\Software_Engineering\Git\SE_258971_Assignment1\SE_258971_Assignment1\obj\Debug\net6.0-windows\SE_258971_Assignment1.Form1.resources
+C:\Users\Acer\OneDrive - USN\Documents\Software_Engineering\Git\SE_258971_Assignment1\SE_258971_Assignment1\obj\Debug\net6.0-windows\SE_258971_Assignment1.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive - USN\Documents\Software_Engineering\Git\SE_258971_Assignment1\SE_258971_Assignment1\obj\Debug\net6.0-windows\SE_258971_Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive - USN\Documents\Software_Engineering\Git\SE_258971_Assignment1\SE_258971_Assignment1\obj\Debug\net6.0-windows\SE_258971_Assignment1.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive - USN\Documents\Software_Engineering\Git\SE_258971_Assignment1\SE_258971_Assignment1\obj\Debug\net6.0-windows\SE_258971_Assignment1.AssemblyInfo.cs
+C:\Users\Acer\OneDrive - USN\Documents\Software_Engineering\Git\SE_258971_Assignment1\SE_258971_Assignment1\obj\Debug\net6.0-windows\SE_258971_Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive - USN\Documents\Software_Engineering\Git\SE_258971_Assignment1\SE_258971_Assignment1\obj\Debug\net6.0-windows\SE_258971_Assignment1.dll
+C:\Users\Acer\OneDrive - USN\Documents\Software_Engineering\Git\SE_258971_Assignment1\SE_258971_Assignment1\obj\Debug\net6.0-windows\refint\SE_258971_Assignment1.dll
+C:\Users\Acer\OneDrive - USN\Documents\Software_Engineering\Git\SE_258971_Assignment1\SE_258971_Assignment1\obj\Debug\net6.0-windows\SE_258971_Assignment1.pdb
+C:\Users\Acer\OneDrive - USN\Documents\Software_Engineering\Git\SE_258971_Assignment1\SE_258971_Assignment1\obj\Debug\net6.0-windows\SE_258971_Assignment1.genruntimeconfig.cache
+C:\Users\Acer\OneDrive - USN\Documents\Software_Engineering\Git\SE_258971_Assignment1\SE_258971_Assignment1\obj\Debug\net6.0-windows\ref\SE_258971_Assignment1.dll
